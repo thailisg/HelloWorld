@@ -1,9 +1,13 @@
 # Overview
 
+Program that displays a "Hello world" message along with a short, lovely phrase for the day.
+
+mini development project to verify that the tools are working properly
+
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-Python
+Python and the random module, so that the phrase of the day is selected random
 
 # Useful Websites
